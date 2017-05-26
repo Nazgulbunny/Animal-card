@@ -1,0 +1,83 @@
+/* add your CSS here */
+
+
+body{
+	text-align: center;
+}
+
+	
+
+
+img{
+
+	
+	width: 300px;
+	border:5px;
+	border-style: dashed;
+	padding:1em 1em 1em 1em;
+	margin:2em 0 2em 0;
+
+}
+
+h3{
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	border:1px;
+	border-style:dotted;
+	border-radius: 5px;
+
+
+
+}
+
+.facts{
+
+	font-style: italic;
+	padding: 1em 1em 1em 1em;
+	
+	margin:1em 1em 1em 1em;
+	
+}
+
+span{
+
+	font-weight: bold;
+
+
+}
+
+ul{
+	list-style: none;
+	padding: 1em 1em 1em 1em;
+}
+li{
+	padding: 1em 1em 1em 1em;
+	border:1px;
+	border-style:dotted;
+	margin:1em 1em 1em 1em;
+	border-radius: 5px;
+	background-color: #87adde;
+
+}
+
+div{
+	padding: 1em 1em 1em 1em;
+	border:1px;
+	border-style:dotted;
+	margin:1em 1em 1em 1em;
+	border-radius: 5px;
+	background-color: #b887de;
+
+}
+
+.container{
+	background-color:burlywood;
+
+
+}
+
+p{
+
+	font-style: italic;
+}
